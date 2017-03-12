@@ -1,5 +1,6 @@
 {
   "name": "basic-webpack-project",
+  "description": "A basic webpack project for tests.",
   "version": "1.0.0",
   "author": "Powtoon (powtoon@powtoon.com), Vitalik Zaidman (vzaidman@gmail.com)",
   "license": "ISC",
