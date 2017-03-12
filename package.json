@@ -1,0 +1,10 @@
+{
+  "name": "basic-webpack-project",
+  "version": "1.0.0",
+  "author": "Powtoon (powtoon@powtoon.com), Vitalik Zaidman (vzaidman@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "file-loader": "^0.10.1",
+    "webpack": "^2.2.1"
+  }
+}

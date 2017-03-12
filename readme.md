@@ -1,0 +1,3 @@
+#basic-webpack-project
+
+Use this to test webpack plugins and loaders etc...
