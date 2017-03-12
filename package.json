@@ -5,6 +5,7 @@
   "author": "Powtoon (powtoon@powtoon.com), Vitalik Zaidman (vzaidman@gmail.com)",
   "license": "ISC",
   "dependencies": {
+    "clean-webpack-plugin": "^0.1.15",
     "file-loader": "^0.10.1",
     "webpack": "^2.2.1"
   }

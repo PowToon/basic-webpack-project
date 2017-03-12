@@ -1,5 +1,6 @@
 var fs = require('fs')
 var webpack = require('webpack')
+var CleanWebpackPlugin = require('clean-webpack-plugin')
 
 var config = {
   context: __dirname,
@@ -21,7 +22,10 @@ var config = {
         ]
       }
     ]
-  }
+  },
+  plugins: [
+    new CleanWebpackPlugin('./output')
+  ]
 }
 
 webpack(config, function (err) {
